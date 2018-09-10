@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import InputForm from "./InputForm";
+import InputForm from "./InputForm/InputForm";
 
 class Home extends Component {
   state = {};
